@@ -1,6 +1,14 @@
 <h1>Gerador de Senhas</h1>
 
-<p>Este é um projeto simples de um Gerador de Senhas desenvolvido em HTML, CSS e JavaScript. Ele permite que você gere senhas seguras de forma rápida e fácil.</p>
+![smartmockups_lmj4ivhm](https://github.com/Luizhdevs/password-generator/assets/138630678/20c37f29-adf7-48ae-9270-cdfc0afd3400)
+
+### Este é um projeto simples de um Gerador de Senhas desenvolvido em:
+
+* HTML.
+* CSS.  
+* JavaScript.
+
+<p>Ele permite que você gere senhas seguras de forma rápida e fácil.</p>
 
 ## Personalização
 
